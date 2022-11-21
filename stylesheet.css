@@ -1,0 +1,131 @@
+
+.container{
+    border: 10px solid;
+    padding: 50px;
+    margin: auto;
+    width: 60%;
+    /*height: 550px;*/
+    border-radius: 5px;
+    background-color: rgb(232, 229, 229);
+    border-image: linear-gradient(skyblue,rgb(255, 192, 228)) 15 /20px 
+}
+p.writeup{
+    margin-inline: 200px;
+    margin-top: -20px;
+    position: absolute;
+    right: 100px;
+    margin-right: 220px;
+    font-weight: bold;
+}
+#image{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    margin-top: -100px;
+}
+#image2{
+    margin: 100px;
+    width: 200px;
+    height: 250px;
+    margin-top: 3px;
+}
+#inline{
+    margin: 15px;
+}
+#inline2{
+    margin: 15px;
+}
+#inline3{
+    margin: 15px;
+}
+#inline4{
+    margin: 15px;
+}
+#style{
+    border: 2px solid black;
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.wrapper h1{
+    margin: 0;
+}
+.form{
+    position: absolute;
+    float: none;
+    margin: 450px;
+    margin-top: -300px;
+    margin-bottom: 600px;
+    margin-left: 350px;
+    display: block;
+    width: 30%;
+}
+.list{
+    text-transform: uppercase;
+    list-style: none;
+    text-align: center;
+    margin-top: -180px;
+    margin-left: 400px;
+    font-weight: bold;
+    font-size: smaller;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#list1{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+    /*background-color: black;
+    color: white;*/
+}
+#list2{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list3{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list4{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list5{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list6{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list7{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list8{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list9{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+#list10{
+    border: 2px solid rgba(0, 0, 0, 0.105);
+    padding: 3px 2px 4px;
+    border-radius: 5px;
+}
+.end{
+    margin: 80px;
+    position: relative;
+    margin-top: -15px;
+    margin-right: 20px;
+}
